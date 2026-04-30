@@ -124,11 +124,11 @@ systemDictionary = {
 	},
 	"kachelmannwetter city id override": {
 		"en": "kachelmannwetter city ID override",
-		"de": "kachelmannwetter city ID override",
+		"de": "kachelmannwetter city ID override"
 	},
 	"kachelmannwetter city name override": {
 		"en": "kachelmannwetter city name override",
-		"de": "kachelmannwetter city name override",
+		"de": "kachelmannwetter city name override"
 	},
 	"none": {
 		"en": "none",
